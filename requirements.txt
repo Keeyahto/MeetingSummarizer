@@ -1,0 +1,39 @@
+# Web Framework
+fastapi
+uvicorn
+
+# ASR (Automatic Speech Recognition) - GPU версия
+# Установка: pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu121
+torch>=2.5.1+cu121
+torchaudio>=2.5.1+cu121
+whisperx
+pyannote.audio
+speechbrain
+
+# LLM Integration
+openai
+tiktoken
+
+# Task Queue
+redis
+rq
+
+# Configuration & Environment
+pydantic-settings
+python-dotenv
+
+# Server-Sent Events
+sse-starlette
+
+# Audio Processing (FFmpeg bindings)
+# Note: FFmpeg binary must be installed separately
+
+# Development & Testing
+pytest
+pytest-asyncio
+
+# Optional: GPU support for PyTorch
+# For CUDA 11.8: torch==1.13.1+cu118 --index-url https://download.pytorch.org/whl/cu118
+# For CUDA 12.1: torch==1.13.1+cu121 --index-url https://download.pytorch.org/whl/cu121
+
+python-multipart
