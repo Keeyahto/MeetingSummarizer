@@ -2,6 +2,10 @@
 
 _Читать на русском: [README.ru.md](./README.ru.md)_
 
+
+https://github.com/user-attachments/assets/99d8b7af-f5ee-4d7f-b7e9-7828816434dc
+
+
 A compact end‑to‑end demo of a meeting summarization service: upload audio, get accurate transcript with word‑level timestamps, a concise TL;DR, action items (with optional owner and due), decisions and risks, plus exports and a live TL;DR stream in the UI.
 
 This repository is designed to showcase engineering approach, architecture, and implementation quality on a realistic problem.
